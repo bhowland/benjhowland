@@ -1,0 +1,20 @@
+# Site settings
+title: Ben j Howland
+description: As a recent grad I thought it might be fun to setup a site to showcase some of my work.
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Ben Howland
+user_description: somthing about me 
+user_title: Software Developer
+email: benjhowland@gmail.com
+twitter_username: benjhowland
+github_username:  bhowland
+gplus_username:  benjhowland
+
+# Google-analytics
+google-analytics:
+  id: ""UA-105331204-1""
+
+exclude: ['package.json', 'src' , 'node_modules']
